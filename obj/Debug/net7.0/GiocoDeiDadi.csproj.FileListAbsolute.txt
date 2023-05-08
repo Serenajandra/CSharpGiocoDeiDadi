@@ -1,0 +1,15 @@
+C:\Users\seren\CsharpProjects\GiocoDeiDadi\bin\Debug\net7.0\GiocoDeiDadi.exe
+C:\Users\seren\CsharpProjects\GiocoDeiDadi\bin\Debug\net7.0\GiocoDeiDadi.deps.json
+C:\Users\seren\CsharpProjects\GiocoDeiDadi\bin\Debug\net7.0\GiocoDeiDadi.runtimeconfig.json
+C:\Users\seren\CsharpProjects\GiocoDeiDadi\bin\Debug\net7.0\GiocoDeiDadi.dll
+C:\Users\seren\CsharpProjects\GiocoDeiDadi\bin\Debug\net7.0\GiocoDeiDadi.pdb
+C:\Users\seren\CsharpProjects\GiocoDeiDadi\obj\Debug\net7.0\GiocoDeiDadi.csproj.AssemblyReference.cache
+C:\Users\seren\CsharpProjects\GiocoDeiDadi\obj\Debug\net7.0\GiocoDeiDadi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seren\CsharpProjects\GiocoDeiDadi\obj\Debug\net7.0\GiocoDeiDadi.AssemblyInfoInputs.cache
+C:\Users\seren\CsharpProjects\GiocoDeiDadi\obj\Debug\net7.0\GiocoDeiDadi.AssemblyInfo.cs
+C:\Users\seren\CsharpProjects\GiocoDeiDadi\obj\Debug\net7.0\GiocoDeiDadi.csproj.CoreCompileInputs.cache
+C:\Users\seren\CsharpProjects\GiocoDeiDadi\obj\Debug\net7.0\GiocoDeiDadi.dll
+C:\Users\seren\CsharpProjects\GiocoDeiDadi\obj\Debug\net7.0\refint\GiocoDeiDadi.dll
+C:\Users\seren\CsharpProjects\GiocoDeiDadi\obj\Debug\net7.0\GiocoDeiDadi.pdb
+C:\Users\seren\CsharpProjects\GiocoDeiDadi\obj\Debug\net7.0\GiocoDeiDadi.genruntimeconfig.cache
+C:\Users\seren\CsharpProjects\GiocoDeiDadi\obj\Debug\net7.0\ref\GiocoDeiDadi.dll
